@@ -41,4 +41,3 @@ CREATE TABLE user_pass(
   mot_pass VARCHAR(20) NOT NULL
 
 );
-aaaa
